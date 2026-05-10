@@ -165,6 +165,8 @@ Connect to `ws://localhost:4000`
 | Simulation | In-process engine, 2-second tick |
 | Containerisation | Docker + Docker Compose + nginx |
 
+<img width="2946" height="1740" alt="navsight_photo" src="https://github.com/user-attachments/assets/6b57bcd6-e28e-4aec-9761-3f1e56872069" />
+
 ---
 
 ## Extending for Production
